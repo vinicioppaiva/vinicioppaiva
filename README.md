@@ -1,4 +1,4 @@
-# Olá, eu sou o Vinício de Paiva! 👋
+# Olá, eu sou o Vinício Paiva! 👋
 
 Engenheiro Civil formado pela **UERJ**, unindo a precisão da engenharia tradicional com a inovação do desenvolvimento de software e inteligência artificial.
 
@@ -22,7 +22,7 @@ Engenheiro Civil formado pela **UERJ**, unindo a precisão da engenharia tradici
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🎯 Foco Atual de Desenvolvimento:
-* **Frontend & Backend:** Aprofundando em React/Angular e Python para soluções robustas.
+* **Frontend & Backend:** Aprofundando em React e Python para soluções robustas.
 * **Infraestrutura:** Estudos em **Serviços em Nuvem (AWS/Azure)** e APIs REST.
 * **Inteligência Artificial:** Pesquisa e desenvolvimento em **IA Generativa** e projetos de P&D.
 * **Fundamentos:** Praticando algoritmos com Java e C, além de testes automatizados e métodos ágeis (Scrum).
@@ -41,3 +41,4 @@ Engenheiro Civil formado pela **UERJ**, unindo a precisão da engenharia tradici
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicio-paiva-04a96b197/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicioppaiva@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521980913238)
