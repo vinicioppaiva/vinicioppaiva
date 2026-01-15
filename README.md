@@ -31,8 +31,8 @@ Engenheiro Civil formado pela **UERJ**, unindo a precisão da engenharia tradici
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinicioppaiva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicioppaiva&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinicioppaiva&theme=tokyonight" alt="Sequência de Contribuições" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinicioppaiva&theme=tokyonight" alt="Linguagens mais usadas" height="150">
 </p>
 ---
 
