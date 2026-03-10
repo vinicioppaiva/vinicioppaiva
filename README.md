@@ -32,10 +32,10 @@ Engenheiro Civil formado pela **UERJ**, unindo a precisão da engenharia tradici
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinicioppaiva&show_icons=true&theme=radical" alt="Estatísticas de Vinício" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinicioppaiva&show_icons=true&theme=radical&hide_border=false" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicioppaiva&layout=compact&theme=radical" alt="Linguagens de Vinício" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinicioppaiva&theme=radical" alt="Linguagens de Vinício" />
 </p>
 
 ---
